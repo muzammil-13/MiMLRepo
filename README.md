@@ -4,6 +4,7 @@ Note : Model prediction for 30 days. <br>
     <dt>Libraries used :</dt>
     <dd>Pandas (for data manipulation)</dd>
     <dd>NumPy (for numerical computations)</dd>
+    <dd>Matplotlib</dd>
 </dl>
 
     
