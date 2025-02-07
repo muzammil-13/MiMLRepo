@@ -51,6 +51,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+
 2. Open `inmakes_Project_BitcoinPrediction.ipynb`
 3. Run the cells sequentially to see the analysis and predictions
 
@@ -84,7 +85,7 @@ MIT License
 For questions and feedback, reach out through:
 
 * GitHub Issues
-* Email: [your.email@example.com](vscode-webview://0l03rsd2pvc4c9k8udhdjnea907gk5133h0021fppjd3dlrotru7/index.html?id=19e0bfd9-c290-49b6-9c51-04081f5be5dd&origin=aab0c48a-da2d-471d-9426-91ce2d43ac44&swVersion=4&extensionId=sourcegraph.cody-ai&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView)
+* Email: [58184829+muzammil-13@users.noreply.github.com](58184829+muzammil-13@users.noreply.github.com)
 
 ## Acknowledgments
 
